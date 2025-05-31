@@ -7,3 +7,4 @@ pickle-mixin
 plotly
 fpdf2
 Pillow
+scikit-learn

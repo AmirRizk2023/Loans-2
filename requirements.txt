@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+pickle-mixin
+plotly
+fpdf2
+Pillow
